@@ -1,1 +1,1 @@
-# Projects
+Churn analysis project.
